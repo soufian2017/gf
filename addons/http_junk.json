@@ -1,0 +1,4 @@
+{
+	"flags": "-ivE",
+	"pattern": "\\.(png|css|jpg|gif|jpeg|svc|js|ico)($|\\?)"
+}
